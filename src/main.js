@@ -1,11 +1,12 @@
 export const search = () => {
-  fetch('https://spotify.com')
-}
+  // eslint-disable-next-line no-undef
+  fetch('https://spotify.com');
+};
 
-export const searchAlbums = () => {}
+export const searchAlbums = () => {};
 
-export const searchArtists = () => {}
+export const searchArtists = () => {};
 
-export const searchPlaylists = () => {}
+export const searchPlaylists = () => {};
 
-export const searchTracks = () => {}
+export const searchTracks = () => {};
